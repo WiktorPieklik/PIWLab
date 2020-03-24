@@ -10,5 +10,5 @@ docker build -f Docker/Dockerfile -t wpieklik-piw . && docker run -p 8080:80 wpi
 
 ## Adres strony: `localhost:8080`
 ### Przykładowy zrzut ekranu
-![page-screenshot index.html](https://user-images.githubusercontent.com/50461146/77427354-87620b80-6dd6-11ea-8405-243ea3e0d32e.png)
+![screenshot index.html](https://user-images.githubusercontent.com/50461146/77431383-e9be0a80-6ddc-11ea-9275-71ac89c6bc7b.png)
 
